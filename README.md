@@ -34,15 +34,6 @@ Matlab scripts
 
 
 
-## 🔗 Connect with me
-[![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://fagun18.medium.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mejbaur/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fagun018)
-[![Hashnode](https://img.shields.io/badge/hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white)](https://fagun.hashnode.dev/)
-[![Facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mbfagun)
-[![YouTube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/fagun018/)
-[![Try Hack Me](https://img.shields.io/badge/tryhackme-1DA1F2?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/dashboard)
-
 
 ## Disclaimer
 
